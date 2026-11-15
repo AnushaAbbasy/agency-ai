@@ -21,7 +21,7 @@ function Footer() {
           <div className="flex gap-4">
             <input
               type="email"
-              placeholder="Enter your email"
+              placeholder="Enter your email here in the box"
               className="border p-3 rounded-xl w-full"
             />
 

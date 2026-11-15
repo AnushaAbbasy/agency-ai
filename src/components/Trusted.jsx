@@ -1,6 +1,6 @@
 function Trusted() {
   const logos = ["Google", "Microsoft", "Zoom", "Slack", "Spotify"];
-
+//this is the trusted by leading companies section
   return (
     <section className="py-20 text-center">
       <p className="text-gray-400 uppercase tracking-widest text-sm mb-10">
